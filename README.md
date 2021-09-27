@@ -41,11 +41,11 @@
 
 ### 1.4 Задача
 
-#### 1.4.1 [❓ репозиторий]()
+#### 1.4.1 [❓ репозиторий](https://github.com/modernClown/JacqueFrescoProd)
 
 #### 1.4.2 [❓ landing page](https://www.youtube.com/watch?v=Y410GzWP0nQ&list=PLjK_0lhldyCStfN4TUSg8fR13OMSLaxdY&index=1)
 
-#### 1.4.3 [пользовательская история (ссылка на issue)]() [✋ пример](https://github.com/stankin/oop-app/issues/38)
+#### 1.4.3 [пользовательская история (ссылка на issue)](https://github.com/modernClown/JacqueFrescoProd/issues) 
 - <Кто (автор)>
 - <Как (роль)>
 - <Хочу (что)>
