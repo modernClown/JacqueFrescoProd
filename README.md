@@ -40,9 +40,9 @@
 
 #### 1.4.1 [репозиторий](https://github.com/modernClown/JacqueFrescoProd)
 
-#### 1.4.2 [landing page](https://www.youtube.com/watch?v=Y410GzWP0nQ&list=PLjK_0lhldyCStfN4TUSg8fR13OMSLaxdY)
+#### 1.4.2 [landing page](https://github.com/modernClown/JacqueFrescoProd#readme)
 
-#### 1.4.3 [пользовательская история](https://github.com/modernClown/Armen.github.io/issues)
+#### 1.4.3 [пользовательская история](https://github.com/modernClown/JacqueFrescoProd/issues)
 - Кто: Школа
 - Роль: Школьник
 - Хочу: Получить адаптивное приложение для игры в судоку
